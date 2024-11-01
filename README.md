@@ -1,7 +1,6 @@
 - 👋 Hey, i am Simon.
-I am studying at the University of Münster in Germany. I am currently doing my bachelors in Business Informatics.
-I am working mostly on frontend (HTML, CSS, JavaScript) coding but starting to branch into backend using ruby and SQL.
-I have an expertise in accessible web-design and input assistance.
+I am studying at the University of Münster in Germany. I am currently doing my Masters in Information Systems.
+I like building front-end projects with NextJs and using MongoDB and full-stack projects with Python and SQL in the backend. Currently developing a gemma AI project.
 
  - 📫 You can reach me using my university email srothgan@uni-muenster.de
 <!---
