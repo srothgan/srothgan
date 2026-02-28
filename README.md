@@ -21,18 +21,26 @@ Full-stack dev by background · Currently deep in Rust & AI tooling
 
 ## Tech Stack
 
-**Languages**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frontend & Frameworks**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-**Backend & Data**  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <strong>Languages</strong><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>Frontend & Frameworks</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+    </td>
+    <td valign="top" width="33%">
+      <strong>Backend & Data</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat&logo=sanity&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -40,10 +48,10 @@ Full-stack dev by background · Currently deep in Rust & AI tooling
 
 | Project | Description | Stars |
 |---|---|---|
-| [claude-code-rust](https://github.com/srothgan/claude-code-rust) | Native Rust TUI for Claude Code | ⭐ 1 |
-| [supabase-error-translator-js](https://github.com/srothgan/supabase-error-translator-js) | Supabase error codes in 9 languages | ⭐ 21 |
-| [tui-textarea](https://github.com/srothgan/tui-textarea) | Maintained fork of tui-textarea with ratatui compatibility | ⭐ 1 |
-| [srothgan-sanity-plugin-autocomplete-input](https://github.com/srothgan/srothgan-sanity-plugin-autocomplete-input) | Sanity autocomplete single-input plugin | ⭐ 0 |
+| [claude-code-rust](https://github.com/srothgan/claude-code-rust) | Native Rust TUI for Claude Code | [![Stars](https://img.shields.io/github/stars/srothgan/claude-code-rust?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/claude-code-rust) |
+| [supabase-error-translator-js](https://github.com/srothgan/supabase-error-translator-js) | Supabase error codes in 9 languages | [![Stars](https://img.shields.io/github/stars/srothgan/supabase-error-translator-js?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/supabase-error-translator-js) |
+| [tui-textarea](https://github.com/srothgan/tui-textarea) | Maintained fork of tui-textarea with ratatui compatibility | [![Stars](https://img.shields.io/github/stars/srothgan/tui-textarea?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/tui-textarea) |
+| [srothgan-sanity-plugin-autocomplete-input](https://github.com/srothgan/srothgan-sanity-plugin-autocomplete-input) | Sanity autocomplete single-input plugin | [![Stars](https://img.shields.io/github/stars/srothgan/srothgan-sanity-plugin-autocomplete-input?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/srothgan-sanity-plugin-autocomplete-input) |
 
 ---
 
