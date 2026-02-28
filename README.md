@@ -36,15 +36,6 @@ Full-stack dev by background · Currently deep in Rust & AI tooling
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srothgan&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srothgan&layout=compact&theme=dark&hide_border=true&langs_count=6" height="155" />
-</p>
-
----
-
 ## Featured Projects
 
 | Project | Description | Stars |
