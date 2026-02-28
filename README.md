@@ -12,10 +12,10 @@ Full-stack dev by background · Currently deep in Rust & AI tooling
 ## About Me
 
 - 🎓 Master's student in **Information Systems** at Uni Münster
-- 🦀 Building [`claude-code-rust`](https://github.com/srothgan/claude-code-rust) — a native Rust TUI for Claude Code
-- 🌐 Strong background in **TypeScript / Next.js** web development & SaaS
+- 🦀 Building [`claude-code-rust`](https://github.com/srothgan/claude-code-rust) - a native Rust TUI for Claude Code
+- 🌐 Strong background in **TypeScript / Next.js** web development
 - 🤖 Interested in LLM benchmarking, developer tools, and AI-powered apps
-- 📦 Best open-source so far: [`supabase-error-translator-js`](https://github.com/srothgan/supabase-error-translator-js) — Supabase errors in 9 languages
+- 📦 Best open-source so far: [`supabase-error-translator-js`](https://github.com/srothgan/supabase-error-translator-js) - Supabase error translation in 9 languages
 
 ---
 
