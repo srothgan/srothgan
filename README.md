@@ -41,9 +41,20 @@ Full-stack dev by background · Currently deep in Rust & AI tooling
 | Project | Description | Stars |
 |---|---|---|
 | [claude-code-rust](https://github.com/srothgan/claude-code-rust) | Native Rust TUI for Claude Code | [![Stars](https://img.shields.io/github/stars/srothgan/claude-code-rust?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/claude-code-rust) |
-| [supabase-error-translator-js](https://github.com/srothgan/supabase-error-translator-js) | Supabase error codes in 9 languages | [![Stars](https://img.shields.io/github/stars/srothgan/supabase-error-translator-js?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/supabase-error-translator-js) |
+| [supabase-error-translator-js](https://github.com/srothgan/supabase-error-translator-js) | Supabase error codes in 10 languages | [![Stars](https://img.shields.io/github/stars/srothgan/supabase-error-translator-js?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/supabase-error-translator-js) |
 | [tui-textarea](https://github.com/srothgan/tui-textarea) | Maintained fork of tui-textarea with ratatui compatibility | [![Stars](https://img.shields.io/github/stars/srothgan/tui-textarea?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/tui-textarea) |
 | [srothgan-sanity-plugin-autocomplete-input](https://github.com/srothgan/srothgan-sanity-plugin-autocomplete-input) | Sanity autocomplete single-input plugin | [![Stars](https://img.shields.io/github/stars/srothgan/srothgan-sanity-plugin-autocomplete-input?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/srothgan-sanity-plugin-autocomplete-input) |
+
+---
+
+## Selected Commercial Work
+
+Private client projects I designed, built, and deployed:
+
+| Site | Stack | Notes |
+|---|---|---|
+| [SJ Media](https://www.sjmedia.studio/) | Next.js, Sanity, Google Analytics | Commercial photography and marketing site for Simon Janke. |
+| [Julian Wortmann Media](https://www.julian-wortmann-media.de/) | Next.js, Sanity, Google Analytics | Photography and podcast website for Julian Wortmann. |
 
 ---
 
