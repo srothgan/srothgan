@@ -1,9 +1,11 @@
 <div align="center">
 
-# Hey, I'm Simon 👋
+# Hey, I''m Simon 👋
+
 
 **M.Sc. Information Systems · University of Münster, Germany**  
 Full-stack dev by background · Currently deep in Rust & AI tooling
+
 
 </div>
 
@@ -11,11 +13,12 @@ Full-stack dev by background · Currently deep in Rust & AI tooling
 
 ## About Me
 
-- 🎓 Master's student in **Information Systems** at Uni Münster
+- 🎓 Master''s student in **Information Systems** at Uni Münster
 - 🦀 Building [`claude-code-rust`](https://github.com/srothgan/claude-code-rust) - a native Rust TUI for Claude Code
 - 🌐 Strong background in **TypeScript / Next.js** web development
 - 🤖 Interested in LLM benchmarking, developer tools, and AI-powered apps
 - 📦 Best open-source so far: [`claude-code-rust`](https://github.com/srothgan/claude-code-rust) - native Rust TUI for Claude Code (100+ ⭐)
+- ✍️ I write about dev & AI on [Medium](https://medium.com/@simonrothgang)
 
 ---
 
