@@ -16,6 +16,7 @@ Full-stack dev by background · Currently deep in Rust & AI tooling
 - 🌐 Strong background in **TypeScript / Next.js** web development
 - 🤖 Interested in LLM benchmarking, developer tools, and AI-powered apps
 - 📦 Best open-source so far: [`claude-code-rust`](https://github.com/srothgan/claude-code-rust) - native Rust TUI for Claude Code (100+ ⭐)
+- ✍️  Writing on [Medium](https://medium.com/@simonrothgang) about current intrests and projects
 
 ---
 
