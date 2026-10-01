@@ -15,8 +15,8 @@ Full-stack dev by background · Currently deep in Rust & AI tooling
 - 🦀 Building [`claude-code-rust`](https://github.com/srothgan/claude-code-rust) - a native Rust TUI for Claude Code
 - 🌐 Strong background in **TypeScript / Next.js** web development
 - 🤖 Interested in LLM benchmarking, developer tools, and AI-powered apps
-- 📦 Best open-source so far: [`claude-code-rust`](https://github.com/srothgan/claude-code-rust) - native Rust TUI for Claude Code (100+ ⭐)
-- ✍️  Writing on [Medium](https://medium.com/@simonrothgang) about current intrests and projects
+- 📦 Best open-source so far: [`claude-code-rust`](https://github.com/srothgan/claude-code-rust) - native Rust TUI for Claude Code (200+ ⭐)
+- ✍️  Writing on [Medium](https://medium.com/@simonrothgang) about current interests and projects
 
 ---
 
@@ -48,6 +48,17 @@ Full-stack dev by background · Currently deep in Rust & AI tooling
 
 ---
 
+## Writing
+
+The stories behind the projects, on [Medium](https://medium.com/@simonrothgang):
+
+| Article | Project |
+|---|---|
+| [I rebuilt Claude Code's terminal UI in Rust. Then I deleted 12,000 lines of it.](https://medium.com/@simonrothgang/i-rebuilt-claude-codes-terminal-ui-in-rust-then-i-deleted-12-000-lines-of-it-e8593a200452) | [claude-code-rust](https://github.com/srothgan/claude-code-rust) |
+| [Launching A Multi-Language Supabase Error Translator NPM Package](https://medium.com/@simonrothgang/my-first-npm-package-a-multi-language-supabase-error-translator-5f0d349855d8) | [supabase-error-translator-js](https://github.com/srothgan/supabase-error-translator-js) |
+
+---
+
 ## Selected Commercial Work
 
 Private client projects I designed, built, and deployed:
@@ -64,5 +75,7 @@ Private client projects I designed, built, and deployed:
 [![Email](https://img.shields.io/badge/Email-srothgan@uni--muenster.de-blue?style=flat&logo=gmail)](mailto:srothgan@uni-muenster.de)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-srothgan-181717?style=flat&logo=github)](https://github.com/srothgan)
+&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-@simonrothgang-12100E?style=flat&logo=medium)](https://medium.com/@simonrothgang)
 
 </div>
