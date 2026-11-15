@@ -44,7 +44,7 @@ Full-stack dev by background · Currently deep in Rust & AI tooling
 | [claude-code-rust](https://github.com/srothgan/claude-code-rust) | Native Rust TUI for Claude Code | [![Stars](https://img.shields.io/github/stars/srothgan/claude-code-rust?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/claude-code-rust) |
 | [supabase-error-translator-js](https://github.com/srothgan/supabase-error-translator-js) | Supabase error codes in 10 languages | [![Stars](https://img.shields.io/github/stars/srothgan/supabase-error-translator-js?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/supabase-error-translator-js) |
 | [tui-textarea](https://github.com/srothgan/tui-textarea) | Maintained fork of tui-textarea with ratatui compatibility | [![Stars](https://img.shields.io/github/stars/srothgan/tui-textarea?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/tui-textarea) |
-| [srothgan-sanity-plugin-autocomplete-input](https://github.com/srothgan/srothgan-sanity-plugin-autocomplete-input) | Sanity autocomplete single-input plugin | [![Stars](https://img.shields.io/github/stars/srothgan/srothgan-sanity-plugin-autocomplete-input?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/srothgan-sanity-plugin-autocomplete-input) |
+| [ruphish](https://github.com/srothgan/ruphish) | Open-source phishing simulation platform built in Rust | [![Stars](https://img.shields.io/github/stars/srothgan/ruphish?style=flat&logo=github&labelColor=black&color=yellow)](https://github.com/srothgan/ruphish) |
 
 ---
 
